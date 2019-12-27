@@ -1,6 +1,6 @@
 <!-- loading start -->
 <div class="loading">
-    <img class="logo-loading" src="{{asset('assets/images/logo/logo-loader.png')}}" alt="logo">
+    <img class="logo-loading" src="{{asset('assets/stl/s-2.png')}}" alt="logo">
 </div><!-- loading end -->
 
 <!-- pointer start -->
@@ -22,9 +22,8 @@
         <!-- logo start -->
         <a href="index-2.html" class="logo pointer-large animsition-link">
             <div class="logo-img-box">
-{{--                <img class="logo-white" src="{{asset('assets/images/logo/logo-white.png')}}" alt="logo">--}}
-{{--                <img class="logo-black" src="{{asset('assets/images/logo/logo-black.png')}}" alt="logo">--}}
-                <h4 style="color: white;">See the Light</h4>
+                <img class="logo-white" src="{{asset('assets/stl/s-3.png')}}" alt="logo">
+                <img class="logo-black" src="{{asset('assets/stl/s-6.png')}}" alt="logo">
             </div>
         </a><!-- logo end -->
 

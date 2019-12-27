@@ -5,7 +5,7 @@
         <!-- column start -->
         <div class="two-columns bottom-padding-60">
             <div class="content-right-margin-10 footer-center-mobile">
-                <img class="footer-logo" src="{{asset('assets/images/logo/logo-white.png')}}" alt="logo">
+                <img class="footer-logo" src="{{asset('assets/stl/s-6.png')}}" alt="logo">
             </div>
         </div><!-- column end -->
         <!-- column start -->
@@ -65,7 +65,7 @@
         </div><!-- column end -->
         <!-- column start -->
         <div class="twelve-columns">
-            <p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
+            <p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 STL.</p>
         </div><!-- column end -->
     </div><!-- flex-container end -->
 </footer><!-- footer end -->
